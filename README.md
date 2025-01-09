@@ -1,4 +1,4 @@
-# Estatítica - Amostra 
+# Estatística - Amostra 
 Implementação em Python - Amostragem 
 
 - Amostragem aleatória simples
